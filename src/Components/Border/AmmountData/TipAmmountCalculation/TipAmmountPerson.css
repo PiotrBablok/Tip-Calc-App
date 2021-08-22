@@ -1,0 +1,27 @@
+.tipAmmount {
+    grid-area: tip;
+    display: grid;
+    grid-template-columns: repeat(2,minmax(0,1fr));
+    align-self: center;
+    width: 100%;
+}
+
+.tipAmmount__person {
+    margin-left: 0;
+    padding-left: 1.25rem;
+    width: 100%;
+}
+
+.tipAmmount__person h5 {
+    color: hsl(0, 0%, 99%);
+}
+
+.tipAmmount__person h6 {
+    color: hsl(0, 0%, 59%)
+}
+
+.tipAmmount__result {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: hsl(172, 67%, 45%);
+}

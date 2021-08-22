@@ -1,0 +1,34 @@
+.border {
+    display: grid;
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+    grid-template-rows: repeat(6, minmax(0, 1fr));
+    border-radius: 1.25rem;
+    background-color: hsl(0, 0%, 99%);
+    width: 100vw;
+    height: 85vh;
+    align-items: center;
+}
+
+@media only screen and (min-width: 880px) {
+    .border {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        grid-template-rows: repeat(3, minmax(0, 1fr));
+        width: 50vw;
+        height: 40vh;
+    }
+}
+
+@media only screen and (min-width: 1300px) {
+    .border {
+        width: 50vw;
+    }
+}
+
+@media only screen and (min-width: 1900px) {
+    .border {
+        width: 30vw;
+    }
+}
+    
+
+    

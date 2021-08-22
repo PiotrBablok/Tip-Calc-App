@@ -1,0 +1,28 @@
+.total {
+    grid-area: total;
+    display: grid;
+    grid-template-columns: repeat(2,minmax(0,1fr));
+    align-self: flex-start;
+    width: 100%;
+}
+
+.total__person {
+    margin-left: 0;
+    padding-left: 1.25rem;
+    width: 100%;
+}
+
+.total__person h5 {
+    color: hsl(0, 0%, 99%);
+    margin-left: 0;
+}
+
+.total__person h6 {
+    color: hsl(0, 0%, 59%)
+}
+
+.total__result {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: hsl(172, 67%, 45%);
+}

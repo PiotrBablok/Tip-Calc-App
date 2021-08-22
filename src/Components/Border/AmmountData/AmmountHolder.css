@@ -1,0 +1,22 @@
+.ammountHolder {
+    display: grid;
+    grid-template-areas: 
+        'tip'
+        'total'
+        'reset'
+    ;
+    width: 80%;
+    height: 80%;
+    border-radius: 0.8rem;
+    background-color: hsl(183, 100%, 15%);
+    grid-row: 5/9;
+}
+
+
+@media only screen and (min-width: 880px) {
+
+    .ammountHolder {
+        grid-row: 1/5;
+    }
+}
+    
