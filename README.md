@@ -28,6 +28,7 @@
 
 <div align="center">
     <p>
+        <img src="https://i.imgur.com/vxtuIcE.png" height="40" width="40" />
         Here you can see the live preview
         <b><i><a href="https://piotrbablok.github.io/Tip-Calc-App/">Tip-App-Calculator</a></i></b>
     </p>
@@ -35,6 +36,7 @@
 
 <div align="center">
     <p>
+        <img src="https://i.imgur.com/hkYoatI.png" height="40" width="40" />
         Here you can see the application source code
         <b><i><a
                     href="https://github.com/PiotrBablok/Tip-Calc-App/tree/master">Tip-App-Calculator-Source-Code</a></i></b>
