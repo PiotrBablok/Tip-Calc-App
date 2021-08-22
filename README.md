@@ -37,7 +37,7 @@
 <div align="center">
     <p>
         <img src="https://i.imgur.com/hkYoatI.png" height="40" width="40" />
-        Here you can see the application source code
+        Here you can see the
         <b><i><a
                     href="https://github.com/PiotrBablok/Tip-Calc-App/tree/master">Tip-App-Calculator-Source-Code</a></i></b>
     </p>
