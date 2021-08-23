@@ -1,1 +1,0 @@
-# Tip-Calc-App
