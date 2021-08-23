@@ -21,7 +21,7 @@
 <br />
 
 <div align="center">
-    <p>The application was created using</p>
+    <p>The application was created by using</p>
     <img src="https://i.imgur.com/vxtuIcE.png" width="100px" height="100px" />
 </div>
 
