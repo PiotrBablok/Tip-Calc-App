@@ -22,7 +22,7 @@
 
 
 <div align="center">
-    <p>You can find the live application at this link: <b><i><a href="https://piotrbablok.github.io/Tip-Calc-App/">React.js</a></i></b></p>
+    <p>You can find the live application at this link: <b><i><a href="https://piotrbablok.github.io/Tip-Calc-App/">Tip Calculator APP</a></i></b></p>
 
 </div>
 
