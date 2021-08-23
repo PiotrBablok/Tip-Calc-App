@@ -20,6 +20,15 @@
 <br />
 <br />
 
+
+<div align="center">
+    <p>You can find the live application at this link: <b><i><a href="https://piotrbablok.github.io/Tip-Calc-App/">React.js</a></i></b></p>
+
+</div>
+
+<br />
+<br />
+
 <div align="center">
     <p>The application was created by using</p>
     <img src="https://i.imgur.com/vxtuIcE.png" width="100px" height="100px" />
