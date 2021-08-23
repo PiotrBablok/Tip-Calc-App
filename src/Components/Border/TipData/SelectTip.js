@@ -39,9 +39,6 @@ const SelectTip = forwardRef((props,ref) => {
         }),
     )
 
-    console.log(props.selectedTip)
-
-
     return (
         <div className='selectTip'>
             <h5 className='selectTip__header'>Select Tip %</h5>

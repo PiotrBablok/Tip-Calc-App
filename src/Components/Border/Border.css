@@ -4,6 +4,8 @@
     grid-template-rows: repeat(6, minmax(0, 1fr));
     border-radius: 1.25rem;
     background-color: hsl(0, 0%, 99%);
+    min-height: 500px;
+    min-width: 16.8rem;
     width: 100vw;
     height: 85vh;
     align-items: center;

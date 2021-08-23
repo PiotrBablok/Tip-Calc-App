@@ -4,10 +4,10 @@ import './Bill.css'
 
 const Bill = forwardRef((props, ref) => {
 
-    const [currentBill, newBill] = useState('');
+    const [currentBill, setNewBill] = useState('');
 
     function billHandler(event) {
-        newBill(event.target.value);
+        setNewBill(event.target.value);
         props.dragAmmount({ price: Number(event.target.value) })
     }
 
@@ -15,7 +15,7 @@ const Bill = forwardRef((props, ref) => {
         ref,
         () => ({
             resetBill() {
-                newBill('')
+                setNewBill('')
             }
         }),
     )

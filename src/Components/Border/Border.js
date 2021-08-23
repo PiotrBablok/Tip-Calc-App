@@ -46,6 +46,8 @@ const Border = (props) => {
     const resetBill = useRef();
     const resetTip = useRef();
 
+
+
     return (
         <Card>
             <div className='border'>
