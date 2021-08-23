@@ -4,6 +4,7 @@ import './TipAmmountPerson.css'
 
 const TipAmmountPerson = (props) => {
 
+    /* Calculates tip value based on amount and percentage. */
     const tip = props.tipData.price * (props.tipData.selectTip / 100);
 
     return (

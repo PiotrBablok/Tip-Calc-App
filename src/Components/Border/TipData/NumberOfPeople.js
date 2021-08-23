@@ -4,13 +4,16 @@ import './NumberOfPeople.css'
 
 const NumberOfPeople = forwardRef((props, ref) => {
 
+    /* Collects data entered by the user. */
     const [currentPpl, newPpl] = useState('')
 
+    /* Takes care of passing the data to the parent Border component. */
     const pplNum = (event) => {
         newPpl(event.target.value)
         props.dragPpl({ numberOfPeople: Number(event.target.value) })
     }
 
+    /* Allows you to call the function from within the ResetBtn sibling component. Which clears the <input> field. */
     useImperativeHandle(
         ref,
         () => ({

@@ -4,6 +4,7 @@ import './ResetBtn.css';
 
 const ResetBtn = (props) => {
 
+    /* Uses the dataResetHandler function from the Border component to clear the DUMMY_DATA object. */
     function resetAll() {
         props.resetData({
             price: 0,
@@ -12,6 +13,7 @@ const ResetBtn = (props) => {
         })
     }
 
+    /* if() checks whether the user has entered a value and then activates the reset button to clear the data. Additionally, changing its color. */
     if (props.btnStatus.price !== 0 ||
         props.btnStatus.selectTip !== 0 ||
         props.btnStatus.numberOfPeople !== 0) {
