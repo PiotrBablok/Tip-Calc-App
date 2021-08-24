@@ -25,30 +25,3 @@
     <p>You can find the live application at this link: <b><i><a href="https://piotrbablok.github.io/Tip-Calc-App/">Tip Calculator APP</a></i></b></p>
 
 </div>
-
-<br />
-<br />
-
-<div align="center">
-    <p>The application was created by using</p>
-    <img src="https://i.imgur.com/vxtuIcE.png" width="100px" height="100px" />
-</div>
-
-
-<div align="center">
-    <img src="https://i.imgur.com/mOZhzrJ.png" width="75px" height="100px" />
-</div>
-
-<br />
-
-<div align="center">
-    <img src="https://i.imgur.com/o6dhoje.png" width="100px" height="100px" />
-</div>
-
-<br />
-<br />
-
-<div align="center">
-    <img src="https://i.imgur.com/83zOTX1.png" width="80px" height="80px" />
-</div>
-
